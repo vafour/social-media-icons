@@ -1,0 +1,265 @@
+@font-face {
+	font-family: 'SocMed';
+	src:url('fonts/SocMed.eot?-fa4xd3');
+	src:url('fonts/SocMed.eot?#iefix-fa4xd3') format('embedded-opentype'),
+		url('fonts/SocMed.woff?-fa4xd3') format('woff'),
+		url('fonts/SocMed.ttf?-fa4xd3') format('truetype'),
+		url('fonts/SocMed.svg?-fa4xd3#SocMed') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.socmed {
+	font-family: 'SocMed';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.socmed-email:before {
+	content: "\e600";
+}
+.socmed-rss:before {
+	content: "\e601";
+}
+.socmed-facebook:before {
+	content: "\e602";
+}
+.socmed-fb:before {
+	content: "\e602";
+}
+.socmed-facebook-2:before {
+	content: "\e603";
+}
+.socmed-fb-2:before {
+	content: "\e603";
+}
+.socmed-twitter:before {
+	content: "\e604";
+}
+.socmed-tumblr:before {
+	content: "\e605";
+}
+.socmed-youtube:before {
+	content: "\e606";
+}
+.socmed-dribbble:before {
+	content: "\e607";
+}
+.socmed-linkedin:before {
+	content: "\e608";
+}
+.socmed-instagram:before {
+	content: "\e609";
+}
+.socmed-pinterest:before {
+	content: "\e60a";
+}
+.socmed-pinterest-2:before {
+	content: "\e60b";
+}
+.socmed-googleplus:before {
+	content: "\e60c";
+}
+.socmed-path:before {
+	content: "\e60d";
+}
+.socmed-github:before {
+	content: "\e60e";
+}
+.socmed-dropbox:before {
+	content: "\e60f";
+}
+.socmed-behance:before {
+	content: "\e610";
+}
+.socmed-foursquare:before {
+	content: "\e611";
+}
+.socmed-vimeo:before {
+	content: "\e612";
+}
+.socmed-metacafe:before {
+	content: "\e613";
+}
+.socmed-flickr:before {
+	content: "\e614";
+}
+.socmed-windows7:before {
+	content: "\e615";
+}
+.socmed-windows:before {
+	content: "\e615";
+}
+.socmed-windows8:before {
+	content: "\e616";
+}
+.socmed-microsoft:before {
+	content: "\e617";
+}
+.socmed-technorati:before {
+	content: "\e618";
+}
+.socmed-evernote:before {
+	content: "\e619";
+}
+.socmed-delicious:before {
+	content: "\e61a";
+}
+.socmed-reddit:before {
+	content: "\e61b";
+}
+.socmed-stumbleupon:before {
+	content: "\e61c";
+}
+.socmed-spotify:before {
+	content: "\e61d";
+}
+.socmed-soundcloud:before {
+	content: "\e61e";
+}
+.socmed-grooveshark:before {
+	content: "\e61f";
+}
+.socmed-wordpress:before {
+	content: "\e620";
+}
+.socmed-wp:before {
+	content: "\e620";
+}
+.socmed-drupal:before {
+	content: "\e621";
+}
+.socmed-blogger:before {
+	content: "\e622";
+}
+.socmed-joomla:before {
+	content: "\e623";
+}
+.socmed-wikipedia:before {
+	content: "\e624";
+}
+.socmed-slashdot:before {
+	content: "\e625";
+}
+.socmed-digg:before {
+	content: "\e626";
+}
+.socmed-paypal:before {
+	content: "\e627";
+}
+.socmed-aboutme:before {
+	content: "\e628";
+}
+.socmed-myspace:before {
+	content: "\e629";
+}
+.socmed-lastfm:before {
+	content: "\e62a";
+}
+.socmed-forrst:before {
+	content: "\e62b";
+}
+.socmed-quora:before {
+	content: "\e62c";
+}
+.socmed-stackoverflow:before {
+	content: "\e62d";
+}
+.socmed-msn:before {
+	content: "\e62e";
+}
+.socmed-picasa:before {
+	content: "\e62f";
+}
+.socmed-disdus:before {
+	content: "\e630";
+}
+.socmed-skype:before {
+	content: "\e631";
+}
+.socmed-hangout:before {
+	content: "\e632";
+}
+.socmed-yahoomessenger:before {
+	content: "\e633";
+}
+.socmed-ym:before {
+	content: "\e633";
+}
+.socmed-yahoo:before {
+	content: "\e634";
+}
+.socmed-bing:before {
+	content: "\e635";
+}
+.socmed-scribd:before {
+	content: "\e636";
+}
+.socmed-newsvine:before {
+	content: "\e637";
+}
+.socmed-yelp:before {
+	content: "\e638";
+}
+.socmed-apple:before {
+	content: "\e639";
+}
+.socmed-android:before {
+	content: "\e63a";
+}
+.socmed-blackberry:before {
+	content: "\e63b";
+}
+.socmed-icq:before {
+	content: "\e63c";
+}
+.socmed-friendfeed:before {
+	content: "\e63d";
+}
+.socmed-amazon:before {
+	content: "\e63e";
+}
+.socmed-squidoo:before {
+	content: "\e63f";
+}
+.socmed-xing:before {
+	content: "\e640";
+}
+.socmed-viddler:before {
+	content: "\e641";
+}
+.socmed-feedburner:before {
+	content: "\e642";
+}
+.socmed-photobucket:before {
+	content: "\e643";
+}
+.socmed-etsy:before {
+	content: "\e644";
+}
+.socmed-ebay:before {
+	content: "\e645";
+}
+.socmed-mrwong:before {
+	content: "\e646";
+}
+.socmed-slideshare:before {
+	content: "\e647";
+}
+.socmed-deviantart:before {
+	content: "\e648";
+}
+.socmed-aol:before {
+	content: "\e649";
+}
+.socmed-500px:before {
+	content: "\e64a";
+}
